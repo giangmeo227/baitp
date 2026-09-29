@@ -26,3 +26,4 @@ native/
 wrapper/dists/
 
 gr?adle/wrapper/dists/
+/gradle/wrapper/dists/
